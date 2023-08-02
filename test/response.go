@@ -1,5 +1,3 @@
-// test/response.go
-
 package test
 
 type ResponseData struct {

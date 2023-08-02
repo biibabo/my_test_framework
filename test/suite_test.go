@@ -1,5 +1,3 @@
-// test/suite_test.go
-
 package test
 
 import (

@@ -1,11 +1,9 @@
-// test/case1_test.go
-
 package test
 
 import (
 	"bytes"
 	"encoding/json"
-	"my_test_framework/test"
+	"github.com/biibabo/my_test_framework/test"
 	"net/http"
 	"net/http/httptest"
 	"testing"
